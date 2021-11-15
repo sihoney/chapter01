@@ -16,5 +16,8 @@ class Ex04 {
 		
 		sc.close();
 		
+		System.out.println("git test-version 01");
+		System.out.println("git test-version 02-1");
+		System.out.println("git test-version 02-2");
 	}
 }
